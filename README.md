@@ -10,7 +10,7 @@
 
 - Ventured into IoT at Emertxe Information Technologies, tackling real-world projects.🌐 
 
-- Highlights include leading a Zigbee-based Wireless Data Acquisition system and crafting an acclaimed Online Restaurant Website.💻 
+- Highlights include leading a Zigbee-based Wireless Data Acquisition system and crafting an acclaimed Online Restaurant Website💻 
 
 - Let's connect and script the next chapter together!✨
 
