@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hari Priya Chalasani</h1>
 
-<p align="center">
-  <img src="https://octodex.github.com/images/femalecodertocat.png" height="160px" />
-</p>
-
 <h3 align="center">
   <b><i>
   💻 Frontend Developer | Building Real-World Web Applications & Enhancing UI/UX for Better Experiences
   </i></b>
 </h3>
 
----
+##
 
 ## 👩‍💻 About Me
+
+<img src="https://octodex.github.com/images/femalecodertocat.png" 
+     width="280px" 
+     align="right" 
+     style="margin-left:20px; margin-top:10px;" />
 
 - 💻 Frontend Web Developer passionate about building responsive and user-friendly applications  
 - 🚀 Also working as a Freelance Frontend Developer, building real-world projects, evaluating UI/UX quality, and helping clients create better digital experiences  
@@ -23,20 +24,32 @@
 - 💬 Ask me about getting started with coding or frontend development  
 - ⚡ Fun fact: I can build circuits that communicate — like social media for electrons!  
 
+<br clear="right"/>
+
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's connect and collaborate 
+
+<h3>
+  Open to opportunities, freelance work, and tech discussions
+</h3>
+
+<br/>
 
 <p>
-<a href="https://www.linkedin.com/in/hari-priya-chalasani/">
-  <img src="https://img.shields.io/badge/LinkedIn-Hari%20Priya%20Chalasani-blue?style=plastic&logo=linkedin"/>
-</a>
-<a href="https://github.com/Hari-Priya-Chalasani">
-  <img src="https://img.shields.io/badge/GitHub-Hari%20Priya%20Chalasani-lightgrey?style=plastic&logo=github"/>
-</a>
-<a href="mailto:priyachalasani1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-priyachalasani1@gmail.com-c14438?style=plastic&logo=gmail&logoColor=white"/>
-</a>
+  <a href="[https://www.linkedin.com/in/haripriya01]" style="display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="display:block;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/Hari-Priya-Chalasani" style="display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=github" height="45" style="display:block;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:priyachalasani1@gmail.com" style="display:inline-block;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" style="display:block;"/>
+  </a>
 </p>
 
 ---
@@ -152,6 +165,19 @@
 - ⚡ Strengthening problem-solving and optimization skills  
 - 🛠️ Preparing to build scalable, real-world frontend applications  
 - 🎯 Continuously improving UI/UX understanding through real-world analysis  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=haripriyachalasani&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=haripriyachalasani&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haripriyachalasani&theme=radical"/>
+</p>
 
 ---
 
