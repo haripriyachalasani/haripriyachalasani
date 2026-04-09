@@ -42,12 +42,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://github.com/Hari-Priya-Chalasani" style="display:inline-block;">
+  <a href="https://github.com/haripriyachalasani" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=github" height="45" style="display:block;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:priyachalasani1@gmail.com" style="display:inline-block;">
+  <a href="mailto:haripriya.chalasani1@gmail.com" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" style="display:block;"/>
   </a>
 </p>
